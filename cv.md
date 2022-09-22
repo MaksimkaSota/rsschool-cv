@@ -1,5 +1,5 @@
 # Maksim Sotnikov
-![photo](https://raw.githubusercontent.com/MaksimkaSota/rsschool-cv/gh-pages/photo.jpeg)
+![photo](https://raw.githubusercontent.com/MaksimkaSota/rsschool-cv/gh-pages/foto.jpeg)
 ### Contacts
 * **MaksimkaSota@gmail.com**
 * **+375296370610**
@@ -9,3 +9,13 @@
 * *Develop and create advanced applications with React.*
 * *Work with outside data sources and APIs.*
 * *Continuously discover, evaluate, and implement new technologies to maximize development efficiency.*
+* ### Skills
+* HTML
+* CSS, Less, Sass, Bootstrap
+* JavaScript, TypeScript
+* React, Redux
+* Git
+### Experience
+* React Project [MaxCharts](https://github.com/MaksimkaSota/MaxCharts). Languages: TypeScript, SCSS, HTML
+* React Project [Weather](https://github.com/MaksimkaSota/Weather). Languages: TypeScript, SCSS, HTML
+* React Project [Users](https://github.com/MaksimkaSota/Users). Languages: TypeScript, CSS, HTML
