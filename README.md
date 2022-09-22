@@ -1,1 +1,1 @@
-# rsschool-cv
+https://maksimkasota.github.io/rsschool-cv/cv
