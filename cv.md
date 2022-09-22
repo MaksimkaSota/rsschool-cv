@@ -19,3 +19,12 @@
 * React Project [MaxCharts](https://github.com/MaksimkaSota/MaxCharts). Languages: TypeScript, SCSS, HTML
 * React Project [Weather](https://github.com/MaksimkaSota/Weather). Languages: TypeScript, SCSS, HTML
 * React Project [Users](https://github.com/MaksimkaSota/Users). Languages: TypeScript, CSS, HTML
+### Education
+* *Sep 2021 - Aug 2022*  
+  STEP IT Academy  
+  **Front End Developer**
+* Sep 2012 - Jul 2017  
+  Belarusian National Thechnical University  
+  **Mechanical Engineering**
+### Languages
+##### English *(Pre-Intermediate)*
